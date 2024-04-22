@@ -163,7 +163,7 @@ def change_labels(email):
 
 if __name__ == "__main__":
     # Number of messages viewed (maximum 500). The name of the token's json file for authorization
-    # main(max_mails="50", email="onedleaf")
+    main(max_mails="50", email="any_name")
 
     # Example of working with labels
-    change_labels(email="onedleaf")
+    # change_labels(email="any_name")
